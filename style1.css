@@ -1,0 +1,10 @@
+h1 {
+  color: darkgreen;
+  font-family: trebuchet;
+  font-size: 40px;
+}
+
+#can1 {
+  height: 200px;
+  border: 1px solid grey;
+}
